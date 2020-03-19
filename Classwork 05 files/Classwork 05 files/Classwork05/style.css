@@ -1,0 +1,50 @@
+*{
+
+    margin:0 auto;
+    box-sizing: border-box;
+
+}
+
+header {
+    
+    text-align: center;
+    Background-color: #f70808;
+    Width: 1000px;
+    Padding: 20px;
+    border: 960px;
+    
+
+}
+
+.heroimage {
+
+    position: relative;
+    width: 1000px;
+    Height: 563px; 
+
+}
+
+.welcome {
+
+    position: absolute;
+    Background-color: #f70808 ;
+    width: 450px;
+    padding: 20px;
+    top: 200px;
+    left: 0px;
+   
+}
+
+span{
+   
+    color: rgb(255, 255, 255);
+    font-size: 45px; 
+
+}
+
+h2{
+
+    font-size: 30px ;
+     color: #feb614;
+
+}
